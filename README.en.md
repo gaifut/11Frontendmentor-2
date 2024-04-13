@@ -1,3 +1,5 @@
+[return to main Readme file](https://github.com/gaifut/Frontendmentor-2-Results-summary-component)
+
 # Frontend Mentor - Results summary component solution
 - This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV).
 - Solution URL: [Solution URL](https://gaifut.github.io/11Frontendmentor-2/)
