@@ -1,6 +1,6 @@
 # Frontend Mentor - Results summary component solution
-
-This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). 
+- This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV).
+- Solution URL: [Solution URL](https://gaifut.github.io/11Frontendmentor-2/)
 
 ## Table of contents
 - [Overview](#overview)
@@ -18,8 +18,6 @@ Users should be able to:
 ### Screenshot
 ![image](https://github.com/gaifut/Frontendmentor-2-Results-summary-component/assets/113767276/4cdbc874-06e5-4682-b8c9-7a89f9ce1b5d)
 
-### Links
-- Solution URL: [Solution URL](https://gaifut.github.io/11Frontendmentor-2/)
 
 ## My process
 ### Built with
