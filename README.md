@@ -3,7 +3,6 @@
 This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). 
 
 ## Table of contents
-
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
@@ -14,9 +13,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - [Author](#author)
 
 ## Overview
-
 ### The challenge
-
 Users should be able to:
 
 - View the optimal layout for the interface depending on their device's screen size
@@ -36,13 +33,10 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
-
 - Solution URL: [Solution URL](https://gaifut.github.io/11Frontendmentor-2/)
 
 ## My process
-
 ### Built with
-
 - HTML
 - CSS
 - Semantic HTML5 markup
@@ -51,7 +45,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Mobile-first workflow
 
 ### Continued development
-
 When I have time I plan to finish the bonus task: use the local JSON data to dynamically populate the content/
 
 ## Author
