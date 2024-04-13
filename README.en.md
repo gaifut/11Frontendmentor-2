@@ -31,7 +31,7 @@ Users should be able to:
 - Mobile-first workflow
 
 ### Continued development
-When I have time I plan to finish the bonus task: use the local JSON data to dynamically populate the content/
+When I have time I plan to finish the bonus task: use the local JSON data to dynamically populate the content.
 
 ## Author
 Artur Gayfutdinov
