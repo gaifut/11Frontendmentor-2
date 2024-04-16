@@ -34,5 +34,4 @@
 Когда у меня появится время, я планирую выполнить бонусную задачу: использовать локальные данные JSON для динамического заполнения контента.
 
 ## Автор
-Артур Гайфутдинов
-- Ссылка на профиль на Frontend Mentor - [@gaifut](https://www.frontendmentor.io/profile/gaifut)
+Артур Гайфутдинов, ссылка на профиль на Frontend Mentor - [@gaifut](https://www.frontendmentor.io/profile/gaifut)
